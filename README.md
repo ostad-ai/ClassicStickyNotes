@@ -14,7 +14,7 @@ This app built with .NET and WinForms, it’s a nostalgic, **privacy‑respectin
   <tr>
 
 <td><img src="Media/ver-0-0.jpg" alt="A snapshot of the app: ClassicStickyNotes, version 0.0" width="400"/>
-Figure 1: A snapshot of the app: ClassicStickyNotes, version 0.0, having two notes.</td>
+Figure 1: A snapshot of the app: ClassicStickyNotes, version 0.0, having three notes.</td>
     
 <td><img src="Media/ver-0-0-alt.jpg" alt="Another snapshot of the app: ClassicStickyNotes, version 0.0" width="400"/>
 Figure 2: A snapshot of the app: ClassicStickyNotes, version 0.0, with different settings.</td>
